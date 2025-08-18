@@ -7,8 +7,6 @@ http://mtv.sunplex.live/MAASRANGA-TV/index.m3u8
 https://mytvbangla.com/0.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/bbYQfNr/Picsart-23-06-07-10-24-56-525.png",DEEPTO TV
 https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
-https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/Tr1FsLp/Picsart-23-06-07-11-09-56-678.png",MOVIE BANGLA
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk_4EUXm16T6Jwq2Xbs4aBojuYHjXIl-fwftK1G8YexEPQ4S5zasmLFMs&s=10",ekushey
@@ -17,8 +15,6 @@ http://live.ekushey-tv.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u
 https://owrcovcrpy.gpcdn.net/bpk-tv/1701/output/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1bmJ8rT.png",Channel 24
 https://owrcovcrpy.gpcdn.net/bpk-tv/1703/output/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/8B0Lpzd/1000021166.png",Cartoon Network
-https://vodzong.mjunoon.tv:8087/streamtest/cartoon-network-87/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSeAgkUzr5OzWeRi0Zszfb7sNN-26QhQm0cujHpbNArZa-qRrfZGD54BL8&s=10",CLASSIC BOLLYWOOD
 https://d35j504z0x2vu2.cloudfront.net:443/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/YNGyQJR/Picsart-23-06-25-22-19-02-657.png",BOLLYWOOD HD
