@@ -1,131 +1,66 @@
 #EXTM3U
 
-# ================= MOVIES (5 Items, 4 Languages) =================
-# Movie 1
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [English]
+# ================= MOVIES (2 Items, 2 Languages) =================
+# Movie 1: Avatar 2
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Avatar+2" group-title="Movies",Avatar 2 [English]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Hindi]
-https://www.youtube.com/embed/3JZ_D3ELwOQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Bangla]
-https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Japanese]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Avatar+2" group-title="Movies",Avatar 2 [Hindi]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-# Movie 2
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Inception [English]
+# Movie 2: Inception
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Inception" group-title="Movies",Inception [English]
+https://link-e
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Inception" group-title="Movies",Inception [Hindi]
+https://link-h
+
+# ================= WEB SERIES (2 Items, 2 Languages, 2 Seasons, 2 EP) =================
+# Series 1: Stranger Things (S1, S2 | E1, E2 | Hindi, English)
+# Season 1
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [Hindi] [E1]
+https://link-s1-e1-h
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [English] [E1]
+https://link-s1-e1-e
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [Hindi] [E2]
+https://link-s1-e2-h
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [English] [E2]
+https://link-s1-e2-e
+
+# Season 2
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [Hindi] [E1]
+https://link-s2-e1-h
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [English] [E1]
+https://link-s2-e1-e
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [Hindi] [E2]
+https://link-s2-e2-h
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [English] [E2]
+https://link-s2-e2-e
+
+# Series 2: Money Heist (একইভাবে ২ সিজন, ২ ভাষা, ২ এপিসোড)
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Money+Heist" group-title="Web Series",Money Heist [S1] [Hindi] [E1]
 https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Inception [Hindi]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Inception [Bangla]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Inception [Japanese]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Money+Heist" group-title="Web Series",Money Heist [S2] [Hindi] [E1]
 https://link
 
-# Movie 3
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+3" group-title="Movies",Pushpa 2 [English]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+3" group-title="Movies",Pushpa 2 [Hindi]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+3" group-title="Movies",Pushpa 2 [Bangla]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+3" group-title="Movies",Pushpa 2 [Japanese]
-https://link
+# ================= ANIME SERIES (2 Items, 2 Languages, 2 Seasons, 2 EP) =================
+# Anime 1: Naruto
+# Season 1
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [Japanese] [E1]
+https://link-a1-s1-e1-j
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [English] [E1]
+https://link-a1-s1-e1-e
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [Japanese] [E2]
+https://link-a1-s1-e2-j
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [English] [E2]
+https://link-a1-s1-e2-e
 
-# Movie 4
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+4" group-title="Movies",Interstellar [English]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+4" group-title="Movies",Interstellar [Hindi]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+4" group-title="Movies",Interstellar [Bangla]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+4" group-title="Movies",Interstellar [Japanese]
-https://link
+# Season 2
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [Japanese] [E1]
+https://link-a1-s2-e1-j
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [English] [E1]
+https://link-a1-s2-e1-e
 
-# Movie 5
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+5" group-title="Movies",Jawan [English]
+# Anime 2: One Piece
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=One+Piece" group-title="Anime Series",One Piece [S1] [Japanese] [E1]
 https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+5" group-title="Movies",Jawan [Hindi]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+5" group-title="Movies",Jawan [Bangla]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+5" group-title="Movies",Jawan [Japanese]
-https://link
-
-# ================= WEB SERIES (5 Items, 3 Seasons, 1 Episode) =================
-# Series 1
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S2] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S3] [Hindi] [E1]
-https://link
-
-# Series 2
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+2" group-title="Web Series",Stranger Things [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+2" group-title="Web Series",Stranger Things [S2] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+2" group-title="Web Series",Stranger Things [S3] [Hindi] [E1]
-https://link
-
-# Series 3
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+3" group-title="Web Series",Dark [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+3" group-title="Web Series",Dark [S2] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+3" group-title="Web Series",Dark [S3] [Hindi] [E1]
-https://link
-
-# Series 4
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+4" group-title="Web Series",Squid Game [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+4" group-title="Web Series",Squid Game [S2] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+4" group-title="Web Series",Squid Game [S3] [Hindi] [E1]
-https://link
-
-# Series 5
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+5" group-title="Web Series",The Witcher [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+5" group-title="Web Series",The Witcher [S2] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+5" group-title="Web Series",The Witcher [S3] [Hindi] [E1]
-https://link
-
-# ================= ANIME SERIES (5 Items, 3 Seasons, 1 Episode) =================
-# Anime 1
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S2] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S3] [Japanese] [E1]
-https://link
-
-# (বাকি Anime গুলোও ৩ সিজন করে দেওয়া হয়েছে)
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+2" group-title="Anime Series",Solo Leveling [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+2" group-title="Anime Series",Solo Leveling [S2] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+2" group-title="Anime Series",Solo Leveling [S3] [Japanese] [E1]
-https://link
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+3" group-title="Anime Series",One Piece [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+3" group-title="Anime Series",One Piece [S2] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+3" group-title="Anime Series",One Piece [S3] [Japanese] [E1]
-https://link
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+4" group-title="Anime Series",Demon Slayer [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+4" group-title="Anime Series",Demon Slayer [S2] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+4" group-title="Anime Series",Demon Slayer [S3] [Japanese] [E1]
-https://link
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+5" group-title="Anime Series",Death Note [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+5" group-title="Anime Series",Death Note [S2] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+5" group-title="Anime Series",Death Note [S3] [Japanese] [E1]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=One+Piece" group-title="Anime Series",One Piece [S2] [Japanese] [E1]
 https://link
