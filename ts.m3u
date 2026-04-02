@@ -1,21 +1,18 @@
 #EXTM3U
 
-# ================= MOVIES (2 Items, 2 Languages) =================
-# Movie 1: Avatar 2
+# ================= MOVIES =================
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Avatar+2" group-title="Movies",Avatar 2 [English]
 https://www.youtube.com/embed/dQw4w9WgXcQ
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Avatar+2" group-title="Movies",Avatar 2 [Hindi]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-# Movie 2: Inception
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Inception" group-title="Movies",Inception [English]
 https://link-e
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Inception" group-title="Movies",Inception [Hindi]
 https://link-h
 
-# ================= WEB SERIES (2 Items, 2 Languages, 2 Seasons, 2 EP) =================
-# Series 1: Stranger Things (S1, S2 | E1, E2 | Hindi, English)
-# Season 1
+# ================= WEB SERIES =================
+# Stranger Things - Season 1
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [Hindi] [E1]
 https://link-s1-e1-h
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [English] [E1]
@@ -25,7 +22,7 @@ https://link-s1-e2-h
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S1] [English] [E2]
 https://link-s1-e2-e
 
-# Season 2
+# Stranger Things - Season 2
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [Hindi] [E1]
 https://link-s2-e1-h
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [English] [E1]
@@ -35,32 +32,23 @@ https://link-s2-e2-h
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Stranger+Things" group-title="Web Series",Stranger Things [S2] [English] [E2]
 https://link-s2-e2-e
 
-# Series 2: Money Heist (একইভাবে ২ সিজন, ২ ভাষা, ২ এপিসোড)
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Money+Heist" group-title="Web Series",Money Heist [S1] [Hindi] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Money+Heist" group-title="Web Series",Money Heist [S2] [Hindi] [E1]
-https://link
-
-# ================= ANIME SERIES (2 Items, 2 Languages, 2 Seasons, 2 EP) =================
-# Anime 1: Naruto
-# Season 1
+# ================= ANIME SERIES =================
+# Naruto - Season 1
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [Japanese] [E1]
-https://link-a1-s1-e1-j
+https://link-n1-s1-e1-j
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [English] [E1]
-https://link-a1-s1-e1-e
+https://link-n1-s1-e1-e
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [Japanese] [E2]
-https://link-a1-s1-e2-j
+https://link-n1-s1-e2-j
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S1] [English] [E2]
-https://link-a1-s1-e2-e
+https://link-n1-s1-e2-e
 
-# Season 2
+# Naruto - Season 2
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [Japanese] [E1]
-https://link-a1-s2-e1-j
+https://link-n1-s2-e1-j
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [English] [E1]
-https://link-a1-s2-e1-e
-
-# Anime 2: One Piece
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=One+Piece" group-title="Anime Series",One Piece [S1] [Japanese] [E1]
-https://link
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=One+Piece" group-title="Anime Series",One Piece [S2] [Japanese] [E1]
-https://link
+https://link-n1-s2-e1-e
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [Japanese] [E2]
+https://link-n1-s2-e2-j
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Naruto" group-title="Anime Series",Naruto [S2] [English] [E2]
+https://link-n1-s2-e2-e
