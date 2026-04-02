@@ -1,50 +1,53 @@
 #EXTM3U
 
-# --- ১. মুভি সেকশন (Movies) ---
+# ==========================================
+# ১. মুভি সেকশন (Movies - ৪টি ভাষা)
+# ==========================================
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [English]
 https://www.youtube.com/embed/dQw4w9WgXcQ
 #EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Hindi]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Jawan [Hindi]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Bangla]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+2" group-title="Movies",Jawan [English]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Movie+1" group-title="Movies",Avatar 2 [Japanese]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-
-# --- ২. ওয়েব সিরিজ সেকশন (Series) ---
-# --- সিরিজ ১: সিজন ১ (Hindi & English) ---
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S1] [Hindi] [E1]
+# ==========================================
+# ২. ওয়েব সিরিজ (Series - ২ সিজন, ৪ এপিসোড, ৪ ভাষা)
+# ==========================================
+# --- সিজন ১ (Season 1) ---
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S1" group-title="Web Series",Stranger Things [S1] [Hindi] [E1]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S1] [English] [E1]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S1" group-title="Web Series",Stranger Things [S1] [English] [E1]
+https://www.youtube.com/embed/3JZ_D3ELwOQ
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S1" group-title="Web Series",Stranger Things [S1] [Bangla] [E1]
+https://www.youtube.com/embed/dQw4w9WgXcQ
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S1" group-title="Web Series",Stranger Things [S1] [Japanese] [E1]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S1] [Hindi] [E2]
+# (একইভাবে E2, E3, E4 যোগ হবে...)
+#EXTINF:-1 tvg-logo="..." group-title="Web Series",Stranger Things [S1] [Hindi] [E4]
+https://লিঙ্ক
+
+# --- সিজন ২ (Season 2) ---
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S2" group-title="Web Series",Stranger Things [S2] [Hindi] [E1]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S1] [English] [E2]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+S2" group-title="Web Series",Stranger Things [S2] [English] [E4]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-# --- সিরিজ ১: সিজন ২ ---
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S2] [Hindi] [E1]
+# ==========================================
+# ৩. এনিমি সেকশন (Anime - ২ সিজন, ৪ এপিসোড, ৪ ভাষা)
+# ==========================================
+# --- সিজন ১ ---
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+S1" group-title="Anime Series",Naruto [S1] [Japanese] [E1]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Series+1" group-title="Web Series",Money Heist [S2] [English] [E1]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+S1" group-title="Anime Series",Naruto [S1] [Hindi] [E1]
 https://www.youtube.com/embed/3JZ_D3ELwOQ
-
-
-# --- ৩. এনিমি সেকশন (Anime) ---
-# --- এনিমি ১: সিজন ১ (Japanese & Hindi) ---
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S1] [Japanese] [E1]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+S1" group-title="Anime Series",Naruto [S1] [English] [E1]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S1] [Hindi] [E1]
-https://www.youtube.com/embed/3JZ_D3ELwOQ
-
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S1] [Japanese] [E2]
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+S1" group-title="Anime Series",Naruto [S1] [Bangla] [E1]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S1] [Hindi] [E2]
-https://www.youtube.com/embed/3JZ_D3ELwOQ
 
-# --- এনিমি ১: সিজন ২ ---
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S2] [Japanese] [E1]
+# --- সিজন ২ ---
+#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+S2" group-title="Anime Series",Naruto [S2] [Japanese] [E4]
 https://www.youtube.com/embed/dQw4w9WgXcQ
-#EXTINF:-1 tvg-logo="https://via.placeholder.com/300x450?text=Anime+1" group-title="Anime Series",Naruto [S2] [Hindi] [E1]
-https://www.youtube.com/embed/3JZ_D3ELwOQ
